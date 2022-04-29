@@ -11,6 +11,9 @@
   <a href="Google Scholar">
     <img src="https://img.shields.io/badge/Google Scholar-blue?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.uibk.ac.at/microbiology/team/hupfauf_sebastian/index.html.de">
+    <img src="https://img.shields.io/badge/Homepage-red?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Youtube Badge"/>
+  </a>
   <a href="https://orcid.org/0000-0002-2012-9966">
     <img src="https://img.shields.io/badge/ORCiD-A7CF3A?style=for-the-badge&logo=orcid&logoColor=white" alt="Youtube Badge"/>
   </a>
